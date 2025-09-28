@@ -1,0 +1,79 @@
+# ======================================
+# Unity
+# ======================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Pp]ackageCache/
+UserSettings/
+DerivedDataCache/
+*.pidb
+*.booproj
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.csproj
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pidb
+
+# ======================================
+# Unity Asset Store / Cache
+# ======================================
+/Assets/AssetStoreTools*
+/Assets/Plugins/Editor/JetBrains*
+/Assets/StreamingAssets/aa.meta
+
+# ======================================
+*.aab
+# ======================================
+# IDEs e editores
+# ======================================
+
+# Visual Studio
+.vs/
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.dotCover
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ======================================
+# Outros
+*.tmp
+*.bak
+*.orig
+*.old
+
+# Ignore arquivos de build locais
+[Bb]uild*/
+[Bb]uilds*/
+# ======================================
+/sysinfo.txt
+*.swp
+*.csproj
+*.sln
+*.sln.docstates
+*.unitypackage
+*.unitypackage.meta
+
+
